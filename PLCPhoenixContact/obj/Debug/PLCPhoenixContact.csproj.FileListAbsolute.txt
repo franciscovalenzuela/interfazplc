@@ -1,0 +1,17 @@
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.Properties.Resources.resources
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.csproj.GenerateResource.cache
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.csproj.CoreCompileInputs.cache
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\PLCPhoenixContact.exe.config
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\PLCPhoenixContact.exe
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\PLCPhoenixContact.pdb
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\PlciDotNet45.dll
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.Main.resources
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.csproj.CopyComplete
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.exe
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.pdb
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\MetaILP64_10.dll
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\NativeMetaAPI.dll
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\PlciBridge.dll
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\PLCI.dll
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\bin\Debug\MetaILP32_10.dll
+C:\Users\soportepm\Desktop\PLCPhoenixContact\PLCPhoenixContact\obj\Debug\PLCPhoenixContact.csprojAssemblyReference.cache
