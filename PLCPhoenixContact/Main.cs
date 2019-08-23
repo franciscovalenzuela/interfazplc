@@ -36,7 +36,7 @@ namespace PLCPhoenixContact
                         if (b.Count > 0)
                         {
                             r = b[0].ToString();
-                            r = r + "," + b[0].GetType();
+                            r = r + "," + b[0].GetType().ToString();
                         }
                         else
                         {
